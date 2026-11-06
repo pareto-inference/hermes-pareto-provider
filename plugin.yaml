@@ -1,0 +1,6 @@
+name: pareto
+kind: model-provider
+version: 1.0.0
+description: Pareto Inference — GLM 5.3 Flash, DeepSeek V4.1 Flash, MiMo V2.6 Flash (OpenAI-compatible, streaming)
+author: Pareto Inference
+requires_hermes: ">=0.22.6"
